@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1616526577 source:c:\users\vasil\desktop\ai\project 1\8-puzzle problem\puzzle.cpp
+	"Puzzle.h"
+
+1617238499 c:\users\vasil\desktop\ai\project 1\8-puzzle problem\puzzle.h
+	<string>
+	<sstream>
+	<vector>
+	<iostream>
+
+1617299546 source:c:\users\vasil\desktop\ai\project 1\8-puzzle problem\main.cpp
+	<iostream>
+	"Puzzle.h"
+	<algorithm>
+	<queue>
+	<stack>
+	<unordered_map>
+
